@@ -1,0 +1,11 @@
+{
+  "name": "time-bot",
+  "version": "1.0.0",
+  "description": "My Personal Bot",
+  "main": "bot.js",
+  "author": "David Sligar",
+  "dependencies": {
+    "moment": "^2.19.1",
+    "moment-timezone": "^0.5.13",
+  }
+}
