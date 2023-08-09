@@ -1,11 +1,11 @@
 {
-  "name": "time-bot",
-  "version": "1.0.0",
-  "description": "My Personal Bot",
-  "main": "bot.js",
-  "author": "David Sligar",
-  "dependencies": {
-    "moment": "^2.19.1",
-    "moment-timezone": "^0.5.13",
-  }
+    "name": "discord-game-bot",
+    "version": "1.0.0",
+    "description": "A Personal Bot project for Discord",
+    "main": "bot.js",
+    "author": "Phong Vo",
+    "dependencies": {
+        "moment": "^2.19.1",
+        "moment-timezone": "^0.5.13"
+    }
 }
